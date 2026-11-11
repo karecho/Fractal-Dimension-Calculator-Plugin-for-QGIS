@@ -1,0 +1,15 @@
+[general]
+name=地铁线路图分形维度分析
+qgisMinimumVersion=3.22
+qgisMaximumVersion=4.99.0
+description=Render a selected QGIS layer, preview RGB/grayscale/binary stages, and estimate its box-counting fractal dimension.
+version=0.2.3
+author=Codex
+email=
+about=Creates a square crop, RGB, grayscale and Otsu/manual binary previews, then estimates fractal dimension and R-squared with box counting.
+category=Analysis
+icon=
+experimental=True
+deprecated=False
+
+
